@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(247, 247, 244);
+}
+header{
+    display:flex;
+    min-height: 80px;
+    background-color: rgb(255, 229, 79) ;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+p {
+    align-content: center;
+    color: rgb(53, 167, 167);
+
+}
+#oferta1 {
+    color: blue;
+    text-align: center;
+   }
+    
+.fgh{
+    margin-top: -130px;
+    margin-left: 200px;
+}
+.fcv {
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.dfg {
+    margin-left: 200px;
+    display: inline-flex;
+}
+.dfg img {
+    padding: 3px;
+    width: 125px;
+}
+.dxc {
+    margin-top: -200px;
+}
+ *{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2, h3{
+        color: blue;
+}
+#VENTAJAS {
+    text-align: center;
+}
+#ADICIONALES {
+    text-align: center;
+}
+h3, h1{
+    text-align: center;
+}
+ 
